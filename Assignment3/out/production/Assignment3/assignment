@@ -1,0 +1,8 @@
+1.	WAP to add objects(String) in ArrayList and print it.
+2.	Iterate above array list using iterator. //check the method online
+3.	Use for-each loop to print those arrayList.
+4.	Use get and set method to set and get the values in the console.
+5.	Sort the Array List
+
+Try all of the above for HashSet and HashMap
+
